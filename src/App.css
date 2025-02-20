@@ -41,7 +41,7 @@
 
 /* Theme: Classic */
 .app.classic {
-  background-color: #F5F5DC;
+  background-color: #b5b508;
   color: #000080;
   background-image: url('/images/classic-abstract.jpg'); /* Replace with actual image */
   background-size: cover;
@@ -51,8 +51,8 @@
 
 /* Theme: Farmhouse */
 .app.farmhouse {
-  background-color: #bc1515;
-  color: #6B8E23;
+  background-color: #c9a0a0;
+  color: #162002;
   background-image: url('/images/farmhouse-abstract.jpg'); /* Replace with actual image */
   background-size: cover;
   background-position: center;
