@@ -49,7 +49,7 @@ function App() {
       <h2>Select a Pantry Pack</h2>
       <PantryPackSelector pantryPacks={pantryPacks} setSelectedPack={setSelectedPack} />
       {selectedPack && <PantryPackContainer selectedPack={selectedPack} />}
-      <button onClick={fetchRecipes} disabled={!selectedPack}>
+      <button onClick={fetchRecipes} className="find-recipes" disabled={!selectedPack}>
         Find Recipes
       </button>
       <h2>Recipes</h2>

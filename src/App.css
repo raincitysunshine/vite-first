@@ -78,3 +78,15 @@ ul {
   list-style-type: none;
   padding: 0;
 }
+
+
+.find-recipes {
+  padding: 10px 15px;
+  color: #162002;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 5px;
+  transition: 0.3s;
+}
